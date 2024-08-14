@@ -11,7 +11,7 @@
 <p>I played a lot of tennis with my friends and coach this summer. I developed many different skills and sharpened my overall ability. </p>
 
 ### DisneyLand
-<p>I went to DisneyLand with my family this summer which was very fun.</p>
+<p>I went to DisneyLand with my family this summer which was very fun. My favorite rides are Indiana Jones and Pirates of the Caribbean.</p>
 
 ### Summer Playlist
 <ol>
